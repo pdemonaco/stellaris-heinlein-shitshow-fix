@@ -172,7 +172,7 @@ leader_trait_ethereal = {
 	modification = no
 	icon = "gfx/interface/icons/traits/leader_traits/leader_trait_ship.dds"
 	modifier = {
-		ship_evasion_mult = 0.2
+		ship_evasion_mult = 0.1
 	}
 	leader_trait = yes
 	leader_class = { admiral }
